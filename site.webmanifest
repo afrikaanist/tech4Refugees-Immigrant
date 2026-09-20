@@ -1,0 +1,9 @@
+{
+  "name": "Tech4RIM",
+  "short_name": "Tech4RIM",
+  "description": "Technology with refugees, immigrants and migrants.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f5ee",
+  "theme_color": "#0b2e4f"
+}
