@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://afrikaanist.github.io/tech4Refugees-Immigrant/sitemap.xml
+Sitemap: https://tech4rim.org/sitemap.xml
