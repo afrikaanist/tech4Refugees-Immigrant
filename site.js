@@ -17,6 +17,6 @@ if (contactForm) {
     const form = new FormData(contactForm);
     const subject = `Tech4RIM: ${form.get('interest')}`;
     const body = `Name: ${form.get('name')}\nEmail: ${form.get('email')}\n\n${form.get('message')}`;
-    window.location.href = `mailto:contact@tech4refugeesandimmigrants.org?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:contact@tech4rim.org?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   });
 }
